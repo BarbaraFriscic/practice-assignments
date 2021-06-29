@@ -1,0 +1,1 @@
+atributi.html, html.html, poravnavanje-slike.html, tablice.html were made during the lesson and assignment was to creat an index.html which would be a flat web page about us.

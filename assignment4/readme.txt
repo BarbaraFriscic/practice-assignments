@@ -1,0 +1,1 @@
+Assignment was to creat a form and style it ike primjer-forma-style-1.png. I had issues with alignment, I managed to do it, but I would like to learn a better way in the future.

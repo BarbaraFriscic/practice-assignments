@@ -1,0 +1,1 @@
+Created using HTML and CSS, table was supposed to look like the one in table-assignment.jpg.

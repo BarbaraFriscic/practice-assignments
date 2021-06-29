@@ -1,0 +1,1 @@
+I used PhotoScape to darken the background image. Practiced using CSS to style the content of the web page. We were given an image (Screenshot_12) as a reference.
