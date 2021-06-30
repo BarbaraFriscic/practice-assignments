@@ -1,0 +1,204 @@
+Idemo redom:
+
+- Definirajte varijablu a i b. Prilikom inicijalizacije varijabli a
+dodijelite vrijednost "Dobro" a varijabli b vrijednost "vecer". Ispišite
+pomocu alert naredbe "Dobro vecer" +
+
+- Ispišite tekst "Marko je išao u školu. Iva je bila u kazalištu." Tako da
+prva recenica bude u jednom redu a druga recenica u drugom redu. +
+
+- Ispišite tekst "Marko je išao u školu. Iva je bila u kazalištu." Tako da
+prva recenica bude odvojena od druge recenice tab-om. +
+
+- Ispišite tocno ovakav tekst:
+Marko: Danas sam dobio jedinicu iz matematike!
+Iva:   Pa što je bilo!?
+Marko: Uciteljica je rekla da napišem "1 / 2"
+Iva:   I što si napis'o?
+Marko: "1 \ 2" na što se uciteljica razbjesnila +
+
+- Ispišite dužinu prethodnog teksta. +
+
+- Definirajte varijablu a. Varijabli a dodijlite neku string vrijednost.
+Ispišite vrijednost tako da sva slova budu velika. +
+
+- Definirajte varijablu a. Varijabli a dodijlite neku string vrijednost.
+Ispišite vrijednost tako da sva slova budu mala. +
+
+- Definirajte varijablu a. Varijabli a dodijlite neku string vrijednost.
+Ispišite gdje se nalazi slovo a u varijabli. +
+
+- Definirajte varijablu a. Varijabli a dodijlite neku string vrijednost.
+Ispišite gdje se nalazi zadnje slovo a u varijabli. +
+
+- Definirajte varijablu a te joj prilikom incijalizacije dodijelite
+vrijednost "Dobro vecer!". Zamjenite rijec "vecer" sa rijeci "jutro" +
+
+- Definirajte varijablu a. Dodijlite joj neku proizvoljnu tekstualnu
+vrijednost. Ispišite prvo slovo iz teksta. +
+
+- Definirajte varijablu a. Dodijlite joj neku proizvoljnu tekstualnu
+vrijednost. Ispišite trece slovo iz teksta. +
+
+- Definirajte varijablu a. Dodijlite joj neku proizvoljnu tekstualnu
+vrijednost. Ispišite zadnje slovo iz teksta. + 
+
+- Definirajte varijablu a. Dodijlite joj neku proizvoljnu tekstualnu
+vrijednost duže od 10 znakova. Ispišite tekst od 3 do 8 znaka. (substr) +
+
+- Definirajte varijablu a. Dodijlite joj neku proizvoljnu tekstualnu
+vrijednost duže od 10 znakova. Ispišite tekst od 3 do 8 znaka. (substring) +
+
+- Definiraj varijablu a i dodijeli joj vrijednost "Zoveš se: ". Definirajte
+varijablu b i pomocu prompt naredbe ucitajte korisnikovo ime. Ispišite ime
+korisnika u obliku recenice koristeci varijablu a.
+
+- Definirajte varijablu a, b i c. Varijabli a dodijelite vrijednost 3 a
+varijabli b vrijednost 4. U varijablu c spremite zbroj varijalbe a i b.
+Ispišite varijablu c sa alert naredbom.
+
+- Definirajte varijablu a i b. Varijabli a dodjelite vrijednost 2.13 a
+varijabli b 4. Ispišite umnožak te dvije varijable. Jel taj rezultat
+cjelobrojni ili decimalni?
+
+- Definirajte varijablu a i prilikom incijalizacije joj dodijelite brojcanu
+neku vrijednost. Povecajte ju za jedan. Ispišite varijablu a.
+
+- Definirajte varijablu a. Dodijelite neku brojcanu vrijednost varijabli a.
+Smanjite ju za jedan. Ispišite varijablu a.
+
+- Definirajte varijablu a. Dodijelite neku brojcanu vrijednost varijabli a.
+Povecajte ju za 10 (na oba nacina). Ispišite varijablu a.
+
+- Definirajte varijablu a. Dodijelite neku brojcanu vrijednost varijabli a.
+Smanjite ju za 10 (na oba nacina). Ispišite varijablu a.
+
+- Definirajte varijablu r. Pomnožite varijablu r sa 3.14 (na oba nacina).
+Ispišite varijablu r.
+
+- Definirajte varijablu a. Definirajte joj neku vrijednost. Ispišite koja je
+sljedeca (za jedan veca) vrijednost varijable a te pritom pazite da samoj
+varijabli ne promjenite vrijednost (pomocu jedne naredbe, na oba nacina)
+
+- Definirajte varijablu a. Definirajte joj neku vrijednost. Ispišite koja je
+prethodna (za jedan manja) vrijednost varijable a te pritom pazite da samoj
+varijabli ne promjenite vrijednost (pomocu jedne naredbe, na oba nacina)
+
+- Definirajte varijalbu a, b i c. Dodijelite varijablama neku brojcanu
+vrijednost. Podijelite varijablu a i b te ju snimite u c varijablu. Ispišite
+vrijednost c varijable
+
+- Definirajte varijablu a i b. Dodijelite varijablama brojcane vrijednosti.
+Ispišite ostatak od djeljenja.
+
+- Definirajte varijablu a. Varijabli a dodijlite vrijednost pomocu prompt
+naredbe. Ispišite varijablu a.
+
+- Pomocu naredbe prompt ucitajte dva broja. Prikaži zbroj ta dva broja.
+
+- Definirajte varijablu a. Pomocu naredbe prompt ucitajte neku vrijednost u
+varijablu a Pokušajte ju pretvoriti u cijeli broj te ga kvadriraj. Ispišite
+kvadriranu vrijednost.
+
+- Definirajte varijablu a. Pomocu naredbe prompt ucitajte neku vrijednost u
+varijablu a. Pokušajte ju pretvoriti u decimalni broj te ju zaokružite.
+Ispišite broj.
+
+- Pomocu naredbe prompt ucitajte neku vrijednost. Pokušajte ju pretvoriti u
+decimalni broj te ju zaokružite na prvi cijeli broj. Ispišite broj.
+
+- Pomocu naredbe prompt ucitajte neku vrijednost. Pokušajte ju pretvoriti u
+decimalni broj te ju zaokružite na prvi sljedeci cijeli broj. Ispišite broj.
+
+- Ispiši slucajno generirani broj.
+
+- Definiraj varijablu a. Dodijeli varijabli a neku vrijednost. Ispiši
+korijen varijable a.
+
+- Definiraj varijablu a. Pomocu prompt naredbe ucitaj vrijednost. Provjeri
+jel je unesena vrijednost broj.
+
+- Definirajte boolean varijablu vrijednosti true i ispišite ju.
+
+- Definirajte boolean varijablu vrijednosti false i ispišite ju.
+
+- Definirajte varijablu a koja ce biti tipa array.
+
+- Definirajte varijablu a koja ce biti tipa array. Zatim joj dodajte 5
+elemenata po izboru. (svaki element zasebna naredba, oba nacina)
+
+- Definirajte varijablu a koja ce biti tipa array. Zatim joj dodajte 5
+elemenata koji ce biti mapirani asocijativno (indeks je tekstualan a ne
+string) po izboru. (svaki element zasebna naredba, oba nacina). Ispiši
+array.
+
+- Definirajte varijablu a koja ce biti tipa array i dodijeli joj neke
+vrijednosti. Na kraj array-a dodaj novi element. Ispiši array.
+
+- Definirajte varijablu a koja ce biti tipa array i dodijeli joj neke
+vrijednosti. Na pocetak array-a dodaj novi element. Ispiši array.
+
+- Definirajte varijablu a koja ce biti tipa array i dodijeli joj neke
+vrijednosti. Izbaci zadnji element array-a. Ispiši array.
+
+- Definirajte varijablu a koja ce biti tipa array i dodijeli joj neke
+vrijednosti. Izbaci prvi element array-a. Ispiši array.
+
+- Definirajte varijablu a koja ce biti tipa array i dodijeli joj neke
+vrijednosti. Ispiši drugi i treci element array-a.
+
+- Definirajte varijablu a koja ce biti tipa array i dodijeli joj neke
+vrijednosti. Izbaci drugi i treci element array-a. Ispiši array.
+
+- Definirajte varijablu a koja ce biti tipa array i dodijeli joj neke
+vrijednosti. Sortiraj array. Ispiši array.
+
+- Definirajte varijablu a koja ce biti tipa array i dodijeli joj neke
+vrijednosti. Zamjeni mjesta svim elementima array-a tako da prvi postane
+zadnji a zadnji prvi. Ispiši array.
+
+- Definirajte varijablu a koja ce biti tipa array i dodijeli joj neke
+vrijednosti. Sortiraj array (obrnuto Z-A). Ispiši array.
+
+- Definirajte varijablu a koja ce biti tipa array i dodijeli joj neke
+vrijednosti. Izbaci zadnji element array-a. Ispiši array.
+
+- Definirajte varijablu a koja ce biti tipa array (matrica, vektor, niz...)
+a u njoj ce se nalaziti popis vaših najdražih TV serija. Ispišite tekst
+"Moja nadraža serija je A i B i C..." gdje su A, B, C itd. elementi array-a
+
+- Definirajte varijablu a koja ce biti tipa array (matrica, vektor, niz...)
+a u njoj ce se nalaziti popis vaših najdražih TV serija. Ispišite broj
+elemenata.
+
+- Definirajte varijablu a koja ce biti tipa array (matrica, vektor, niz...)
+a u njoj ce se nalaziti popis vaših najdražih TV serija. Ispišite zadnji
+elemenat(vrijednost).
+
+- Definirajte varijablu a koja ce biti tipa array (matrica, vektor, niz...)
+a u njoj ce se nalaziti popis vaših najdražih TV serija. Ispišite zadnji
+elemenat(indeks).
+
+- Definirajte varijablu a. Ucitajte brojcanu vrijednost pomocu naredbe
+prompt. Provjerite jel unesena vrijednost veca od 5 ako je ispišite
+odgovarajucu poruku.
+
+- Definirajte varijablu a. Ucitajte brojcanu vrijednost pomocu naredbe
+prompt. Provjerite jel unesena vrijednost veca od 5 ako je ispišite
+odgovarajucu poruku a ako ne javite korisniku da je upisao broj manji od 5.
+
+- Definirajte varijablu a. Dodjelite varijabli a slucajan broj. Provjerite
+jel varijabla u intervalu do 0.25, 0.26 do 0.5, 0.51 do 0.75 ili veca od
+0.76. Ispišite u kojem je rasponu varijabla a.
+
+- Definirajte varijablu a. Pomocu naredbe prompt ucitajte vrijednost.
+Provjerite jel upisana brojcana vrijednost i jel pozitivan. Ako je javite
+korisniku da je upisao pozitivan broj inace ga obavjestite da nije upisao
+pozitivan broj.
+
+- Definirajte varijablu a. Pomocu naredbe prompt ucitajte vrijednost.
+Provjerite jel varijabla u rasponu od 1 do 10. Javite korisniku rezultat.
+
+- Definirajte varijablu a. Pomocu naredbe prompt postavite pitanje korisniku
+koji ce imati više od 2 ponudena odgovora. Provjerite korisnikov odgovor te
+mu ispišite odgovarajuci tekst.
